@@ -1,0 +1,3 @@
+[submodule "LabLink_frontend"]
+	path = LabLink_frontend
+	url = https://github.com/ravindu568/LabLink_frontend
